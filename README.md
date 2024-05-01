@@ -55,7 +55,7 @@ npm run dev
 This command will watch the filesystem, automatically restarting the api\_server
 when new changes are available and will hot-reload the frontend.
 
-Frontend: http://localhost:5173
+Frontend: http://localhost:5173 (Coming soon)
 API Server: http://localhost:4000/graphql
 
 ## Code Quality
